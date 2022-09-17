@@ -1,17 +1,16 @@
 
 body{
     
-    color: black;
-
-    /* background-image: url(./images/doga.png); */
+    background-image: url(./images/gokyuzu.png); 
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
-    height: 100vh;
+    
     
 }
 
-.app{
+/* .app{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -57,4 +56,4 @@ body{
     font-size: 30px;
     font-weight: 500;
 
-}
+} */
