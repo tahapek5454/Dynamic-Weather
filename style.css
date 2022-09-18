@@ -10,6 +10,22 @@ body{
     
 }
 
+.navbar-custom{
+    background-color: rgb(203, 208, 223);
+}
+
+.inf{
+    font-size: 20px;
+    font-style: unset;
+    font-family: Trebuchet 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.t{
+    font-size: 25px;
+}
+
+
+
 /* .app{
     display: flex;
     flex-direction: column;
