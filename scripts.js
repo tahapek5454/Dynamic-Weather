@@ -158,11 +158,11 @@ const getResultForTemp = (citiyName) => {
 
 let sayac = 0;
 
-const TYPE_CLOUD = ['kapalı', 'bulutlu']
-const TYPE_SUN = ['güneşli', 'açık']
-const TYPE_RARIN = ['yağmurlu', 'yağışlı']
+const TYPE_CLOUD = ['kapalı', 'bulutlu','bulut']
+const TYPE_SUN = ['güneşli', 'açık','güneş']
+const TYPE_RARIN = ['yağmurlu', 'yağışlı','yağmur']
 const TYPE_SNOW = ['karlı', 'kar']
-const TYPE_WINDY = ['fırtına', 'rüzgarlı']
+const TYPE_WINDY = ['fırtına', 'rüzgarlı','rüzgar']
 
 
 
