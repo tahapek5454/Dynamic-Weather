@@ -2,7 +2,7 @@
 
 const URL = "https://api.openweathermap.org/data/2.5/"
 
-const KEY = "bca1671cecf44178a4604c8e30cd54ec"
+const KEY = "Your API Key"
 
 var tarih = new Date();
 
